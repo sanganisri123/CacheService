@@ -54,3 +54,6 @@ MainClasses or Interface:
 				|	+getCache()	    |
 				|		            |
 				 - - - - - - - - - - - - - -          
+				 
+Reference:\
+1.https://www.infoworld.com/article/2075440/develop-a-generic-caching-service-to-improve-performance.html?page=2
